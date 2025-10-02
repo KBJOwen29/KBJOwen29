@@ -1,12 +1,12 @@
+<p align="center">
+      <img alt="GIF" src="https://raw.githubusercontent.com/mhardik003/mhardik003/main/gifs/mario.gif">
+</p>
 
-<!-- Banner / GIF -->
-![Welcome Banner](https://media1.tenor.com/m/GD9UKMwnxYIAAAAC/ngoding-mulu.gif)
-
-# Hello There! 👋 I'm Jim Owen K. Bogñalbal  
+# Hi There! 👋 I'm Jim Owen K. Bogñalbal  
 
 🎓 **3rd Year BS Computer Science Student**  
 📚 Major in **Software Engineering** at *Manuel S. Enverga University Foundation, Lucena City, Philippines*  
-💻 Aspiring **Software Engineer** 
+💻 Aspiring **Software Engineer** | Passionate about continuous learning  
 
 ---
 
@@ -19,9 +19,16 @@
 
 ---
 
-## 🛠️ Languages & Tools
+## 💻 Programming Languages
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=java,python,flutter,dart,html,css,js,mysql,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=java,python,dart,html,css,js" />
+</p>
+
+---
+
+## 🛠️ Tools & Frameworks
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=flutter,mysql,git,github,vscode" />
 </p>
 
 ---
@@ -36,7 +43,8 @@
 
 ## 🌐 Connect with Me
 <p align="left">
+  <a href="https://www.facebook.com/your-facebook" target="_blank"><img src="https://skillicons.dev/icons?i=facebook" /></a>
+  <a href="https://www.instagram.com/your-instagram" target="_blank"><img src="https://skillicons.dev/icons?i=instagram" /></a>
   <a href="https://www.linkedin.com/in/your-linkedin" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
-  <a href="mailto:your-email@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
+  <a href="https://discord.com/users/your-discord-id" target="_blank"><img src="https://skillicons.dev/icons?i=discord" /></a>
 </p>
-
