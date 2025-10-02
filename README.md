@@ -2,7 +2,7 @@
   <img alt="GIF" src="https://raw.githubusercontent.com/mhardik003/mhardik003/main/gifs/mario.gif">
 </p>
 
-# Hi There! 👋 I'm Jim Owen K. Bogñalbal  
+# I'm Jim Owen K. Bogñalbal  
 
 🎓 **3rd Year BS Computer Science Student**  
 📚 Major in **Software Engineering** at *Manuel S. Enverga University Foundation, Lucena City, Philippines*  
