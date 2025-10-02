@@ -6,7 +6,7 @@
 
 🎓 **3rd Year BS Computer Science Student**  
 📚 Major in **Software Engineering** at *Manuel S. Enverga University Foundation, Lucena City, Philippines*  
-💻 Aspiring **Software Engineer** | Passionate about continuous learning  
+💻 Aspiring **Software Engineer** 
 
 ---
 
