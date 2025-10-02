@@ -23,7 +23,7 @@ meaningful software solutions.
 <p>
 My interests span across <strong>artificial intelligence</strong>, <strong>system development</strong>, 
 and <strong>modern web applications</strong>, areas that I see as transformative in today’s digital landscape. 
-Outside of coding, I balance my technical pursuits with my dedication to <strong>karate training 🥋</strong>, 
+Outside of coding, I balance my technical pursuits with my dedication to <strong>karate training </strong>, 
 which not only strengthens my discipline but also teaches me the importance of persistence and focus—qualities 
 I bring into my programming journey as well.
 </p> 
