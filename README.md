@@ -11,11 +11,22 @@
 ---
 
 ## 🚀 About Me
-- 🌱 Currently diving deep into **software programming & web development**  
-- 🔭 Exploring **Flutter, Java, and Python** projects  
-- 🤝 Love collaborating on **open-source projects**  
-- 💡 Interested in **AI, system development, and modern web applications**  
-- ⚡ Fun fact: I enjoy balancing **coding** with **karate training 🥋**  
+<p>
+I am a passionate <strong>Computer Science student</strong> who is currently diving deep into the world of 
+<strong>software programming</strong> and <strong>web development</strong>. My curiosity and drive push me to 
+continuously explore new technologies, with a particular focus on <strong>Flutter</strong>, <strong>Java</strong>, 
+and <strong>Python</strong> projects. Beyond my academic journey, I enjoy collaborating on 
+<strong>open-source projects</strong>, as I believe teamwork and knowledge-sharing are essential in creating 
+meaningful software solutions.
+</p>
+
+<p>
+My interests span across <strong>artificial intelligence</strong>, <strong>system development</strong>, 
+and <strong>modern web applications</strong>, areas that I see as transformative in today’s digital landscape. 
+Outside of coding, I balance my technical pursuits with my dedication to <strong>karate training 🥋</strong>, 
+which not only strengthens my discipline but also teaches me the importance of persistence and focus—qualities 
+I bring into my programming journey as well.
+</p> 
 
 ---
 
