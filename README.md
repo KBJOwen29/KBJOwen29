@@ -53,7 +53,7 @@
 
 ## 🌐 Connect with Me
 <p align="center">
-  <a href="https://www.facebook.com/your-facebook" target="https://www.facebook.com/jimowen.bognalbal.5">
+  <a href="https://www.facebook.com/jimowen.bognalbal.5" target="https://www.facebook.com/jimowen.bognalbal.5">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
   </a>
   <a href="https://www.instagram.com/your-instagram" target="_blank">
