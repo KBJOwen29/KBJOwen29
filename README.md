@@ -4,7 +4,7 @@
 
 # I'm Jim Owen K. Bogñalbal  
 
-🎓 **3rd Year BS Computer Science Student**  
+🎓 **BS Computer Science Student**  
 📚 Major in **Software Engineering** at *Manuel S. Enverga University Foundation, Lucena City, Philippines*  
 💻 Aspiring **Software Engineer** 
 
