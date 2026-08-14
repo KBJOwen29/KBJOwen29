@@ -57,11 +57,13 @@ I bring into my programming journey as well.
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-stats-extended.vercel.app/api?username=KBJOwen29&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="180"/>
-  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=KBJOwen29&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
+  <img src="https://github-stats-extended.vercel.app/api?username=KBJOwen29&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" width="480"/>
 </p>
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=KBJOwen29&theme=tokyonight&hide_border=true" height="180"/>
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=KBJOwen29&layout=compact&theme=tokyonight&hide_border=true" width="480"/>
+</p>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=KBJOwen29&theme=tokyonight&hide_border=true" width="480"/>
 </p>
 
 ## 🌐 Connect with Me
