@@ -12,20 +12,11 @@
 
 ## 🚀 About Me
 <p>
-I am a passionate <strong>Computer Science student</strong> who is currently diving deep into the world of 
-<strong>software programming</strong> and <strong>web development</strong>. My curiosity and drive push me to 
-continuously explore new technologies, with a particular focus on <strong>Flutter</strong>, <strong>Java</strong>, 
-and <strong>Python</strong> projects. Beyond my academic journey, I enjoy collaborating on 
-<strong>open-source projects</strong>, as I believe teamwork and knowledge-sharing are essential in creating 
-meaningful software solutions.
+I am a passionate Computer Science student with a strong interest in software programming and backend development. My curiosity and determination drive me to continuously explore new technologies, with a particular focus on building reliable and efficient systems using Java, Python, and Flutter. I enjoy working on projects that involve developing backend logic, designing APIs, managing databases, and creating scalable solutions that support modern applications.
 </p>
 
 <p>
-My interests span across <strong>artificial intelligence</strong>, <strong>system development</strong>, 
-and <strong>modern web applications</strong>, areas that I see as transformative in today’s digital landscape. 
-Outside of coding, I balance my technical pursuits with my dedication to <strong>karate training </strong>, 
-which not only strengthens my discipline but also teaches me the importance of persistence and focus—qualities 
-I bring into my programming journey as well.
+I am also interested in artificial intelligence, system development, and software quality assurance, particularly in ensuring that applications are reliable, secure, efficient, and maintainable. Beyond my academic journey, I enjoy collaborating on open-source projects because I believe teamwork and knowledge-sharing are essential to building better software. Outside of coding, I dedicate myself to karate training, which strengthens my discipline, persistence, and focus—qualities that I bring into every project and challenge I take on.
 </p> 
 
 ---
