@@ -12,7 +12,7 @@
 
 ## 🚀 About Me
 <p>
-I am a passionate Computer Science student with an interest in software programming and backend development. My curiosity and determination drive me to continuously explore new technologies, with a particular focus on building reliable and efficient systems using Java, Python, and Flutter. I enjoy working on projects that involve developing backend logic, designing APIs, managing databases, and creating scalable solutions that support modern applications.
+I am a passionate Computer Science student with a strong interest in software programming and backend development. My curiosity and determination drive me to continuously explore new technologies, with a particular focus on building reliable and efficient systems using Java, Python, and Flutter. I enjoy working on projects that involve developing backend logic, designing APIs, managing databases, and creating scalable solutions that support modern applications.
 </p>
 
 <p>
